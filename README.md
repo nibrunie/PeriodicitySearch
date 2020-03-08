@@ -1,2 +1,2 @@
 # PeriodicitySearch
-utility script to search a function periodicity
+utility script to empirically determine a function periodicity
